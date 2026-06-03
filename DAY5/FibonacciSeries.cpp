@@ -17,7 +17,7 @@ int main()
 
     for (int i = 0; i < n; i++)
     {
-        cout << fib(i) << " ";
+        cout << fib(i) << " " <<endl;
     }
 
     return 0;
